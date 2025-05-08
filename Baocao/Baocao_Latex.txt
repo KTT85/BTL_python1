@@ -1,0 +1,196 @@
+﻿\documentclass[12pt, a4paper]{article}
+\usepackage[utf8]{vietnam}
+\usepackage{geometry}
+\geometry{left=2cm, right=2cm, top=2cm, bottom=2cm}
+\usepackage{titlesec}
+\usepackage{enumitem}
+\usepackage{listings}
+\usepackage{xcolor}
+\usepackage{hyperref}
+
+
+\titleformat{\section}{\large\bfseries}{\thesection}{1em}{}
+\titleformat{\subsection}{\normalsize\bfseries}{\thesubsection}{1em}{}
+\lstset{
+    basicstyle=\ttfamily\small,
+    breaklines=true,
+    frame=single,
+    backgroundcolor=\color{gray!10},
+    keywordstyle=\color{blue},
+    stringstyle=\color{red},
+    commentstyle=\color{green!50!black}
+}
+
+
+\begin{document}
+
+
+% Title Page
+\begin{titlepage}
+    \centering
+    \vspace*{2cm}
+    {\LARGE\bfseries POSTS AND TELECOMMUNICATIONS INSTITUTE OF TECHNOLOGY \\ DEPARTMENT OF PYTHON PROGRAMMING LANGUAGE \par}
+    \vspace{1cm}
+    {\Large\bfseries PINT \par}
+    \vspace{2cm}
+    {\Large FINAL ASSIGNMENT \\ FOOTBALL PLAYER DATA COLLECTION \par}
+    \vspace{2cm}
+    \begin{tabular}{ll}
+        INSTRUCTOR    & : KIM NGUYEN BACH \\
+        STUDENT NAME  & : TRAN TRUNG KIEN \\
+        STUDENT ID    & : B23DCCE058 \\
+        CLASS         & : D23CQCE04-B \\
+        GROUP         & : 04 \\
+    \end{tabular}
+    \vfill
+    {\large Hanoi – 2025 \par}
+\end{titlepage}
+
+
+% Table of Contents
+\tableofcontents
+\newpage
+
+
+% Section 1: Overview and Objectives
+\section{Overview and Objectives}
+This assignment requires students to use Python to collect, process, and analyze statistical data on football players in the 2024–2025 English Premier League season. Key objectives include:
+\begin{itemize}
+    \item Collecting data from \texttt{fbref.com} and standardizing it using tools like Selenium and Pandas.
+    \item Performing descriptive statistical analysis (mean, median, standard deviation) and visualizing distributions.
+    \item Applying K-means clustering and PCA for player segmentation.
+    \item Predicting transfer values using machine learning (Random Forest Regressor).
+    \item Developing problem-solving skills and presenting data insights effectively.
+\end{itemize}
+
+
+% Section 2: Data Collection from FBref
+\section{Data Collection from FBref}
+\subsection{Objective}
+Collect detailed player statistics from \texttt{FBref.com} for players with >90 minutes played.  
+\subsection{Tools Used}
+\begin{itemize}
+    \item Python libraries: Selenium (automation), BeautifulSoup (HTML parsing), Pandas (data handling), Logging.
+\end{itemize}
+\subsection{Procedure}
+\begin{itemize}
+    \item Access statistical tables (standard, keeper, shooting, etc.) using headless Chrome.
+    \item Extract HTML, parse headers, and standardize data (e.g., player names, nationality codes).
+    \item Filter players with >90 minutes and merge tables using \texttt{pd.merge}.
+\end{itemize}
+\subsection{Results}
+\begin{itemize}
+    \item Output: \texttt{results.csv} with 78+ columns (player info, technical metrics, etc.).
+    \item Data cleaned, deduplicated, and standardized.
+\end{itemize}
+
+
+% Section 3: Statistical Data Analysis
+\section{Statistical Data Analysis}
+\subsection{Objective}
+Evaluate individual/team performance and visualize key metrics.  
+\subsection{Tools Used}
+Python, Pandas, NumPy, Matplotlib, Seaborn.  
+\subsection{Process}
+\begin{itemize}
+    \item Load data, convert age format, exclude non-numeric columns.
+    \item Identify top/bottom players per metric (saved to \texttt{top\_3.txt}).
+    \item Compute descriptive statistics (mean, median, std) for league, teams, and players.
+    \item Generate histograms for metrics like Goals, Assists, Tackles.
+\end{itemize}
+\subsection{Outputs}
+\begin{itemize}
+    \item \texttt{results2.csv}: Descriptive statistics for teams and players.
+    \item \texttt{all\_distributions.pdf}: Histograms for 6 key metrics.
+    \item \texttt{team\_results.txt}: Best-performing teams per metric.
+\end{itemize}
+
+
+% Section 4: Clustering Players using K-means and PCA
+\section{Clustering Players using K-means and PCA}
+\subsection{Objective}
+Group players by performance using K-means and PCA for visualization.  
+\subsection{Tools Used}
+Scikit-learn (KMeans, PCA), StandardScaler, Matplotlib.  
+\subsection{Method Summary}
+\begin{itemize}
+    \item Select hybrid metrics (attacking, defending, goalkeeping).
+    \item Normalize data and determine optimal clusters (k=4 via silhouette score).
+    \item Reduce dimensions to 2 using PCA.
+\end{itemize}
+\subsection{Results}
+\begin{itemize}
+    \item Clear cluster separation in PCA 2D plot.
+    \item Silhouette score confirms k=4 as optimal.
+\end{itemize}
+
+
+% Section 5: Predicting Player Transfer Values
+\section{Predicting Player Transfer Values}
+\subsection{Objective}
+Estimate transfer values using performance metrics and machine learning.  
+\subsection{Tools Used}
+RandomForestRegressor, FuzzyWuzzy (name matching), FootballTransfers.com scraping.  
+\subsection{Process Summary}
+\begin{itemize}
+    \item Scrape transfer values and merge with FBref data via fuzzy matching.
+    \item Engineer features: Age groups, normalized minutes, position types.
+    \item Train model and evaluate using RMSE (28.01M) and R² score.
+\end{itemize}
+\subsection{Results}
+\begin{itemize}
+    \item Recommendations saved to \texttt{player\_transfer\_recommendations.csv}.
+    \item Feature importance: Minutes, Age, Position\_Type.
+\end{itemize}
+
+
+\subsection{A method, feature and model for estimating player values}
+\textbf{Proposed Model: Random Forest Regressor} \\
+The Random Forest algorithm was selected for its robustness and ability to handle structured data with complex nonlinear relationships. It also helps reduce overfitting by aggregating predictions from multiple trees and provides built-in feature importance ranking.
+
+
+\textbf{Reasons for using Random Forest:}
+\begin{itemize}
+    \item Handles complex feature interactions.
+    \item Resistant to noise and overfitting.
+    \item Includes built-in metrics for evaluating feature importance.
+    \item Performs well on medium-sized datasets.
+\end{itemize}
+
+
+\textbf{Key Features Used:}
+\begin{itemize}
+    \item \texttt{Minutes\_Normalized} – reflects playing time.
+    \item \texttt{Age} and \texttt{Age\_Group} – younger players tend to have higher market value.
+    \item \texttt{Experience\_Level} – reflects consistency and match maturity.
+    \item \texttt{Position\_Type} – affects valuation (e.g., forwards vs. goalkeepers).
+\end{itemize}
+
+
+\textbf{Evaluation:}
+\begin{itemize}
+    \item The model was evaluated using RMSE and R² score.
+    \item It enables buy/sell recommendations by comparing predicted vs. actual market values.
+\end{itemize}
+
+
+This method facilitates data-driven player valuation strategies and helps optimize transfer decisions.
+
+
+% Section 6: Conclusion
+\section{Conclusion}
+Key learnings include:
+\begin{itemize}
+    \item Web scraping and data preprocessing with Python.
+    \item Statistical analysis and visualization techniques.
+    \item Clustering and PCA for unsupervised learning.
+    \item Machine learning for regression tasks.
+\end{itemize}
+
+
+% Section 7: Acknowledgements
+\section{Acknowledgements}
+Thanks to instructor Mr. Kim Nguyen Bach for guidance. This project provided hands-on experience in data science workflows, from raw data to actionable insights.
+
+
+\end{document}

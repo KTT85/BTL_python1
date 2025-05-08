@@ -1,0 +1,882 @@
+
+==================================================
+Statistic: Age
+--------------------------------------------------
+
+Top 3 Players:
+Łukasz Fabiański: 40.05
+Ashley Young: 39.83
+James Milner: 39.34
+
+Bottom 3 Players:
+Chidozie Obi-Martin: 17.44
+Mikey Moore: 17.74
+Ethan Nwaneri: 18.13
+
+==================================================
+Statistic: MP
+--------------------------------------------------
+
+Top 3 Players:
+Alex Iwobi: 35.00
+Anthony Elanga: 35.00
+Bernd Leno: 35.00
+
+Bottom 3 Players:
+Altay Bayındır: 2.00
+Ayden Heaven: 2.00
+Billy Gilmour: 2.00
+
+==================================================
+Statistic: Starts
+--------------------------------------------------
+
+Top 3 Players:
+Bernd Leno: 35.00
+Bruno Guimarães: 35.00
+Bryan Mbeumo: 35.00
+
+Bottom 3 Players:
+Ali Al Hamadi: 0.00
+Antony: 0.00
+Ben Chilwell: 0.00
+
+==================================================
+Statistic: Minutes
+--------------------------------------------------
+
+Top 3 Players:
+Bernd Leno: 3150.00
+David Raya: 3150.00
+Dean Henderson: 3150.00
+
+Bottom 3 Players:
+Ayden Heaven: 95.00
+Jahmai Simpson-Pusey: 96.00
+Billy Gilmour: 98.00
+
+==================================================
+Statistic: Goals
+--------------------------------------------------
+
+Top 3 Players:
+Mohamed Salah: 28.00
+Alexander Isak: 23.00
+Erling Haaland: 21.00
+
+Bottom 3 Players:
+Aaron Cresswell: 0.00
+Aaron Ramsdale: 0.00
+Abdukodir Khusanov: 0.00
+
+==================================================
+Statistic: Assists
+--------------------------------------------------
+
+Top 3 Players:
+Mohamed Salah: 18.00
+Jacob Murphy: 11.00
+Antonee Robinson: 10.00
+
+Bottom 3 Players:
+Aaron Cresswell: 0.00
+Aaron Ramsdale: 0.00
+Abdukodir Khusanov: 0.00
+
+==================================================
+Statistic: Yellow Cards
+--------------------------------------------------
+
+Top 3 Players:
+Saša Lukić: 12.00
+Morgan Gibbs-White: 11.00
+Will Hughes: 11.00
+
+Bottom 3 Players:
+Abdul Fatawu Issahaku: 0.00
+Adam Webster: 0.00
+Albert Grønbaek: 0.00
+
+==================================================
+Statistic: Red Cards
+--------------------------------------------------
+
+Top 3 Players:
+Bruno Fernandes: 2.00
+Jack Stephens: 2.00
+Myles Lewis-Skelly: 2.00
+
+Bottom 3 Players:
+Aaron Cresswell: 0.00
+Aaron Ramsdale: 0.00
+Aaron Wan-Bissaka: 0.00
+
+==================================================
+Statistic: xG
+--------------------------------------------------
+
+Top 3 Players:
+Mohamed Salah: 24.00
+Erling Haaland: 20.80
+Alexander Isak: 19.90
+
+Bottom 3 Players:
+Aaron Ramsdale: 0.00
+Abdukodir Khusanov: 0.00
+Adam Webster: 0.00
+
+==================================================
+Statistic: xAG
+--------------------------------------------------
+
+Top 3 Players:
+Mohamed Salah: 13.20
+Cole Palmer: 10.00
+Son Heung-min: 8.20
+
+Bottom 3 Players:
+Aaron Ramsdale: 0.00
+Albert Grønbaek: 0.00
+Alex McCarthy: 0.00
+
+==================================================
+Statistic: PrgC
+--------------------------------------------------
+
+Top 3 Players:
+Jeremy Doku: 189.00
+Mohamed Salah: 143.00
+Noni Madueke: 142.00
+
+Bottom 3 Players:
+Aaron Ramsdale: 0.00
+Alex McCarthy: 0.00
+Alex Palmer: 0.00
+
+==================================================
+Statistic: PrgP
+--------------------------------------------------
+
+Top 3 Players:
+Bruno Fernandes: 281.00
+Joško Gvardiol: 251.00
+Bruno Guimarães: 247.00
+
+Bottom 3 Players:
+Aaron Ramsdale: 0.00
+Alex McCarthy: 0.00
+Alisson: 0.00
+
+==================================================
+Statistic: PrgR
+--------------------------------------------------
+
+Top 3 Players:
+Mohamed Salah: 440.00
+Bryan Mbeumo: 319.00
+Alejandro Garnacho: 281.00
+
+Bottom 3 Players:
+Aaron Ramsdale: 0.00
+Alex McCarthy: 0.00
+Alex Palmer: 0.00
+
+==================================================
+Statistic: Gls/90
+--------------------------------------------------
+
+Top 3 Players:
+Jáder Durán: 0.99
+Donyell Malen: 0.92
+James Mcatee: 0.89
+
+Bottom 3 Players:
+Aaron Cresswell: 0.00
+Aaron Ramsdale: 0.00
+Abdukodir Khusanov: 0.00
+
+==================================================
+Statistic: Ast/90
+--------------------------------------------------
+
+Top 3 Players:
+Tyrique George: 0.87
+Danny Ings: 0.63
+Bukayo Saka: 0.58
+
+Bottom 3 Players:
+Aaron Cresswell: 0.00
+Aaron Ramsdale: 0.00
+Abdukodir Khusanov: 0.00
+
+==================================================
+Statistic: xG/90
+--------------------------------------------------
+
+Top 3 Players:
+James Mcatee: 0.83
+Erling Haaland: 0.76
+Danny Ings: 0.72
+
+Bottom 3 Players:
+Aaron Ramsdale: 0.00
+Abdukodir Khusanov: 0.00
+Adam Webster: 0.00
+
+==================================================
+Statistic: xGA/90
+--------------------------------------------------
+
+Top 3 Players:
+Tyrique George: 0.63
+Mykhailo Mudryk: 0.58
+Luis Sinisterra: 0.54
+
+Bottom 3 Players:
+Aaron Ramsdale: 0.00
+Alex McCarthy: 0.00
+Alex Palmer: 0.00
+
+==================================================
+Statistic: SoT/90
+--------------------------------------------------
+
+Top 3 Players:
+Julio Enciso: 3.37
+Donyell Malen: 2.76
+Luis Sinisterra: 2.29
+
+Bottom 3 Players:
+Aaron Cresswell: 0.00
+Aaron Ramsdale: 0.00
+Abdukodir Khusanov: 0.00
+
+==================================================
+Statistic: Cmp
+--------------------------------------------------
+
+Top 3 Players:
+Virgil van Dijk: 2543.00
+Joško Gvardiol: 2321.00
+William Saliba: 2320.00
+
+Bottom 3 Players:
+William Osula: 11.00
+Albert Grønbaek: 13.00
+Odsonne Édouard: 17.00
+
+==================================================
+Statistic: Cmp%
+--------------------------------------------------
+
+Top 3 Players:
+William Saliba: 94.20
+Manuel Akanji: 93.90
+Nathan Aké: 93.90
+
+Bottom 3 Players:
+Matz Sels: 51.10
+Altay Bayındır: 55.50
+George Hirst: 55.80
+
+==================================================
+Statistic: TotDist
+--------------------------------------------------
+
+Top 3 Players:
+Mark Flekken: 23832.00
+Jordan Pickford: 22991.00
+Virgil van Dijk: 18087.00
+
+Bottom 3 Players:
+Evan Ferguson: 21.00
+Chiedozie Ogbene: 27.00
+Ali Al Hamadi: 29.00
+
+==================================================
+Statistic: Short%
+--------------------------------------------------
+
+Top 3 Players:
+Altay Bayındır: 100.00
+Antonín Kinský: 100.00
+Arijanet Muric: 100.00
+
+Bottom 3 Players:
+William Osula: 61.50
+Paul Onuachu: 62.90
+George Hirst: 66.70
+
+==================================================
+Statistic: Med%
+--------------------------------------------------
+
+Top 3 Players:
+Alex Palmer: 100.00
+Caoimhín Kelleher: 100.00
+Danny Ward: 100.00
+
+Bottom 3 Players:
+Albert Grønbaek: 50.00
+Beto: 50.00
+George Hirst: 50.00
+
+==================================================
+Statistic: KP
+--------------------------------------------------
+
+Top 3 Players:
+Bruno Fernandes: 84.00
+Cole Palmer: 82.00
+Mohamed Salah: 82.00
+
+Bottom 3 Players:
+Aaron Ramsdale: 0.00
+Alex McCarthy: 0.00
+Alphonse Areola: 0.00
+
+==================================================
+Statistic: Passes 1/3
+--------------------------------------------------
+
+Top 3 Players:
+Virgil van Dijk: 269.00
+Joško Gvardiol: 237.00
+Youri Tielemans: 228.00
+
+Bottom 3 Players:
+Ali Al Hamadi: 0.00
+Chiedozie Ogbene: 0.00
+Jason Steele: 0.00
+
+==================================================
+Statistic: PPA
+--------------------------------------------------
+
+Top 3 Players:
+Mohamed Salah: 86.00
+Martin Ødegaard: 81.00
+Alex Iwobi: 78.00
+
+Bottom 3 Players:
+Abdukodir Khusanov: 0.00
+Albert Grønbaek: 0.00
+Alex McCarthy: 0.00
+
+==================================================
+Statistic: CrsPA
+--------------------------------------------------
+
+Top 3 Players:
+Antonee Robinson: 28.00
+Pedro Porro: 26.00
+Milos Kerkez: 23.00
+
+Bottom 3 Players:
+Aaron Ramsdale: 0.00
+Abdoulaye Doucouré: 0.00
+Abdukodir Khusanov: 0.00
+
+==================================================
+Statistic: PrgoP
+--------------------------------------------------
+
+Top 3 Players:
+Bruno Fernandes: 281.00
+Joško Gvardiol: 251.00
+Bruno Guimarães: 247.00
+
+Bottom 3 Players:
+Aaron Ramsdale: 0.00
+Alex McCarthy: 0.00
+Alisson: 0.00
+
+==================================================
+Statistic: SCA
+--------------------------------------------------
+
+Top 3 Players:
+Cole Palmer: 190.00
+Bruno Fernandes: 169.00
+Mohamed Salah: 157.00
+
+Bottom 3 Players:
+Alex McCarthy: 0.00
+Altay Bayındır: 0.00
+Ben Mee: 0.00
+
+==================================================
+Statistic: SCA90
+--------------------------------------------------
+
+Top 3 Players:
+Philip Billing: 7.83
+Luis Guilherme: 6.52
+Kevin De Bruyne: 6.08
+
+Bottom 3 Players:
+Alex McCarthy: 0.00
+Altay Bayındır: 0.00
+Ben Mee: 0.00
+
+==================================================
+Statistic: GCA
+--------------------------------------------------
+
+Top 3 Players:
+Mohamed Salah: 26.00
+Bukayo Saka: 22.00
+Mikkel Damsgaard: 21.00
+
+Bottom 3 Players:
+Aaron Cresswell: 0.00
+Aaron Ramsdale: 0.00
+Abdukodir Khusanov: 0.00
+
+==================================================
+Statistic: GCA90
+--------------------------------------------------
+
+Top 3 Players:
+Bukayo Saka: 1.29
+Solly March: 1.08
+Amad Diallo: 0.93
+
+Bottom 3 Players:
+Aaron Cresswell: 0.00
+Aaron Ramsdale: 0.00
+Abdukodir Khusanov: 0.00
+
+==================================================
+Statistic: Tkl
+--------------------------------------------------
+
+Top 3 Players:
+Idrissa Gana Gueye: 124.00
+Daniel Muñoz: 113.00
+João Gomes: 105.00
+
+Bottom 3 Players:
+Aaron Ramsdale: 0.00
+Alex McCarthy: 0.00
+Alex Palmer: 0.00
+
+==================================================
+Statistic: TklW
+--------------------------------------------------
+
+Top 3 Players:
+Daniel Muñoz: 74.00
+Idrissa Gana Gueye: 74.00
+Moisés Caicedo: 64.00
+
+Bottom 3 Players:
+Aaron Ramsdale: 0.00
+Alex McCarthy: 0.00
+Alex Palmer: 0.00
+
+==================================================
+Statistic: Att
+--------------------------------------------------
+
+Top 3 Players:
+Alexis Mac Allister: 104.00
+Trent Alexander-Arnold: 103.00
+João Gomes: 102.00
+
+Bottom 3 Players:
+Alex McCarthy: 0.00
+Alex Palmer: 0.00
+Armando Broja: 0.00
+
+==================================================
+Statistic: Lost
+--------------------------------------------------
+
+Top 3 Players:
+João Gomes: 60.00
+Elliot Anderson: 57.00
+Trent Alexander-Arnold: 55.00
+
+Bottom 3 Players:
+Alex McCarthy: 0.00
+Alex Palmer: 0.00
+Antonín Kinský: 0.00
+
+==================================================
+Statistic: Blocks
+--------------------------------------------------
+
+Top 3 Players:
+Nathan Collins: 71.00
+Murillo: 67.00
+Tyrick Mitchell: 62.00
+
+Bottom 3 Players:
+Aaron Ramsdale: 0.00
+Alex McCarthy: 0.00
+Alex Palmer: 0.00
+
+==================================================
+Statistic: Sh
+--------------------------------------------------
+
+Top 3 Players:
+Nathan Collins: 51.00
+Dara O'Shea: 47.00
+Murillo: 44.00
+
+Bottom 3 Players:
+Aaron Ramsdale: 0.00
+Abdul Fatawu Issahaku: 0.00
+Adama Traoré: 0.00
+
+==================================================
+Statistic: Pass
+--------------------------------------------------
+
+Top 3 Players:
+Alexis Mac Allister: 55.00
+Antoine Semenyo: 51.00
+Tyrick Mitchell: 50.00
+
+Bottom 3 Players:
+Aaron Ramsdale: 0.00
+Albert Grønbaek: 0.00
+Alex McCarthy: 0.00
+
+==================================================
+Statistic: Int
+--------------------------------------------------
+
+Top 3 Players:
+Aaron Wan-Bissaka: 60.00
+Antonee Robinson: 57.00
+Ryan Gravenberch: 57.00
+
+Bottom 3 Players:
+Albert Grønbaek: 0.00
+Alex McCarthy: 0.00
+Alex Palmer: 0.00
+
+==================================================
+Statistic: Touches
+--------------------------------------------------
+
+Top 3 Players:
+Virgil van Dijk: 3125.00
+Joško Gvardiol: 2903.00
+Levi Colwill: 2728.00
+
+Bottom 3 Players:
+Albert Grønbaek: 38.00
+William Osula: 41.00
+Chidozie Obi-Martin: 44.00
+
+==================================================
+Statistic: Def Pen
+--------------------------------------------------
+
+Top 3 Players:
+Mark Flekken: 1338.00
+Bernd Leno: 1097.00
+Bart Verbruggen: 1034.00
+
+Bottom 3 Players:
+Emi Buendía: 0.00
+Callum Wilson: 1.00
+Evan Ferguson: 1.00
+
+==================================================
+Statistic: Def 3rd
+--------------------------------------------------
+
+Top 3 Players:
+Mark Flekken: 1660.00
+Jordan Pickford: 1494.00
+Bernd Leno: 1354.00
+
+Bottom 3 Players:
+William Osula: 2.00
+Odsonne Édouard: 4.00
+Callum Wilson: 5.00
+
+==================================================
+Statistic: Mid 3rd
+--------------------------------------------------
+
+Top 3 Players:
+Virgil van Dijk: 1719.00
+William Saliba: 1519.00
+Joško Gvardiol: 1474.00
+
+Bottom 3 Players:
+Alex McCarthy: 0.00
+Danny Ward: 0.00
+Fraser Forster: 0.00
+
+==================================================
+Statistic: Att 3rd
+--------------------------------------------------
+
+Top 3 Players:
+Mohamed Salah: 1023.00
+Bryan Mbeumo: 913.00
+Bruno Fernandes: 888.00
+
+Bottom 3 Players:
+Aaron Ramsdale: 0.00
+Alex McCarthy: 0.00
+Alex Palmer: 0.00
+
+==================================================
+Statistic: Att Pen
+--------------------------------------------------
+
+Top 3 Players:
+Mohamed Salah: 327.00
+Alexander Isak: 178.00
+Antoine Semenyo: 176.00
+
+Bottom 3 Players:
+Aaron Ramsdale: 0.00
+Alex McCarthy: 0.00
+Alex Palmer: 0.00
+
+==================================================
+Statistic: TO Att
+--------------------------------------------------
+
+Top 3 Players:
+Mohammed Kudus: 194.00
+Jeremy Doku: 185.00
+Morgan Rogers: 153.00
+
+Bottom 3 Players:
+Aaron Ramsdale: 0.00
+Alex McCarthy: 0.00
+Alex Palmer: 0.00
+
+==================================================
+Statistic: Carries
+--------------------------------------------------
+
+Top 3 Players:
+Joško Gvardiol: 1886.00
+Virgil van Dijk: 1746.00
+William Saliba: 1675.00
+
+Bottom 3 Players:
+Harry Toffolo: 17.00
+Albert Grønbaek: 18.00
+Chidozie Obi-Martin: 22.00
+
+==================================================
+Statistic: ProDist
+--------------------------------------------------
+
+Top 3 Players:
+Jan Paul van Hecke: 6740.00
+Joško Gvardiol: 5715.00
+Rúben Dias: 5295.00
+
+Bottom 3 Players:
+Albert Grønbaek: 15.00
+Harry Toffolo: 23.00
+Massimo Luongo: 25.00
+
+==================================================
+Statistic: ProgC
+--------------------------------------------------
+
+Top 3 Players:
+Jeremy Doku: 189.00
+Mohamed Salah: 143.00
+Noni Madueke: 142.00
+
+Bottom 3 Players:
+Aaron Ramsdale: 0.00
+Alex McCarthy: 0.00
+Alex Palmer: 0.00
+
+==================================================
+Statistic: Carries 1/3
+--------------------------------------------------
+
+Top 3 Players:
+Alex Iwobi: 102.00
+Joško Gvardiol: 92.00
+Jeremy Doku: 88.00
+
+Bottom 3 Players:
+Aaron Ramsdale: 0.00
+Albert Grønbaek: 0.00
+Alex McCarthy: 0.00
+
+==================================================
+Statistic: CPA
+--------------------------------------------------
+
+Top 3 Players:
+Mohamed Salah: 115.00
+Jeremy Doku: 90.00
+Noni Madueke: 87.00
+
+Bottom 3 Players:
+Aaron Cresswell: 0.00
+Aaron Ramsdale: 0.00
+Abdukodir Khusanov: 0.00
+
+==================================================
+Statistic: Mis
+--------------------------------------------------
+
+Top 3 Players:
+Mohamed Salah: 109.00
+Morgan Rogers: 104.00
+Bryan Mbeumo: 99.00
+
+Bottom 3 Players:
+Alex McCarthy: 0.00
+Alphonse Areola: 0.00
+Altay Bayındır: 0.00
+
+==================================================
+Statistic: Dis
+--------------------------------------------------
+
+Top 3 Players:
+Mohammed Kudus: 89.00
+Bruno Guimarães: 73.00
+Dejan Kulusevski: 73.00
+
+Bottom 3 Players:
+Aaron Cresswell: 0.00
+Aaron Ramsdale: 0.00
+Alex McCarthy: 0.00
+
+==================================================
+Statistic: Rec
+--------------------------------------------------
+
+Top 3 Players:
+Virgil van Dijk: 2153.00
+Joško Gvardiol: 2132.00
+William Saliba: 2056.00
+
+Bottom 3 Players:
+Albert Grønbaek: 21.00
+Odsonne Édouard: 26.00
+William Osula: 27.00
+
+==================================================
+Statistic: ProgR
+--------------------------------------------------
+
+Top 3 Players:
+Mohamed Salah: 440.00
+Bryan Mbeumo: 319.00
+Alejandro Garnacho: 281.00
+
+Bottom 3 Players:
+Aaron Ramsdale: 0.00
+Alex McCarthy: 0.00
+Alex Palmer: 0.00
+
+==================================================
+Statistic: Fls
+--------------------------------------------------
+
+Top 3 Players:
+João Gomes: 67.00
+Liam Delap: 67.00
+Antoine Semenyo: 66.00
+
+Bottom 3 Players:
+Albert Grønbaek: 0.00
+Alex McCarthy: 0.00
+Alisson: 0.00
+
+==================================================
+Statistic: Fld
+--------------------------------------------------
+
+Top 3 Players:
+Bruno Guimarães: 100.00
+Matheus Cunha: 69.00
+John McGinn: 67.00
+
+Bottom 3 Players:
+Alphonse Areola: 0.00
+Altay Bayındır: 0.00
+Andrés García: 0.00
+
+==================================================
+Statistic: Off
+--------------------------------------------------
+
+Top 3 Players:
+Dominic Calvert-Lewin: 27.00
+Chris Wood: 26.00
+Jamie Vardy: 25.00
+
+Bottom 3 Players:
+Aaron Cresswell: 0.00
+Aaron Ramsdale: 0.00
+Abdukodir Khusanov: 0.00
+
+==================================================
+Statistic: Crs
+--------------------------------------------------
+
+Top 3 Players:
+Pedro Porro: 191.00
+Bryan Mbeumo: 182.00
+Bruno Fernandes: 172.00
+
+Bottom 3 Players:
+Aaron Ramsdale: 0.00
+Alex McCarthy: 0.00
+Alex Palmer: 0.00
+
+==================================================
+Statistic: Recov
+--------------------------------------------------
+
+Top 3 Players:
+Moisés Caicedo: 203.00
+Elliot Anderson: 197.00
+Bruno Fernandes: 192.00
+
+Bottom 3 Players:
+Altay Bayındır: 0.00
+Danny Ward: 1.00
+Fraser Forster: 1.00
+
+==================================================
+Statistic: Won
+--------------------------------------------------
+
+Top 3 Players:
+Dan Burn: 134.00
+Nathan Collins: 112.00
+Virgil van Dijk: 111.00
+
+Bottom 3 Players:
+Andrés García: 0.00
+Antony: 0.00
+Billy Gilmour: 0.00
+
+==================================================
+Statistic: Aerial Lost
+--------------------------------------------------
+
+Top 3 Players:
+Chris Wood: 129.00
+Jean-Philippe Mateta: 99.00
+Jørgen Strand Larsen: 96.00
+
+Bottom 3 Players:
+Aaron Ramsdale: 0.00
+Albert Grønbaek: 0.00
+Alex McCarthy: 0.00
